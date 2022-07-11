@@ -5,5 +5,5 @@ We recommend to read the tutorial of both models to get familiar with this modul
 
 For any further details, please refer to the paper. 
 
-# Update:
+# Update
 The implementation of Pólya-Gamma sampling depends on the package `PyPólyaGamma` which is available at https://github.com/slinderman/pypolyagamma. 
