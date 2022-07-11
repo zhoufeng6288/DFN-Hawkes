@@ -4,3 +4,6 @@ The repository implements three inference methods (Gibbs sampler, EM algorithm a
 We recommend to read the tutorial of both models to get familiar with this module. It introduces the key points in the model and illustrates how to perfrom simulation and inference.
 
 For any further details, please refer to the paper. 
+
+# Update:
+The implementation of P`{o}lya-Gamma sampling depends on the package `PyPólyaGamma` which is available at 'https://github.com/slinderman/pypolyagamma'. 
